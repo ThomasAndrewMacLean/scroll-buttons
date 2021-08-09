@@ -1,0 +1,20 @@
+{
+  "name": "add-scroll-buttons",
+  "version": "1.0.0",
+  "description": "add scroll buttons to a UL",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasAndrewMacLean/scroll-buttons.git"
+  },
+  "author": "Thomas MacLean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThomasAndrewMacLean/scroll-buttons/issues"
+  },
+  "homepage": "https://github.com/ThomasAndrewMacLean/scroll-buttons#readme"
+}
